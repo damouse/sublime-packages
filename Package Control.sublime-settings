@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"GoOracle",
+		"GoSublime",
 		"HTML-CSS-JS Prettify",
 		"LESS",
 		"Package Control",

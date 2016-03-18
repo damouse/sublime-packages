@@ -6,15 +6,22 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"Better CoffeeScript",
+		"CodeFormatter",
 		"GoOracle",
 		"GoSublime",
 		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
 		"LaTeXTools",
 		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
+		"Pretty JSON",
 		"Sass",
-		"Swift",
-		"Swift Foundation Completions"
+		"SublimeLinter-contrib-gotype",
+		"SublimeREPL",
+		"Swift"
 	]
 }

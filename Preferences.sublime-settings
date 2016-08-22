@@ -5,6 +5,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"FindResultsApplyChanges",
 		"Markdown",
 		"Vintage"
 	],

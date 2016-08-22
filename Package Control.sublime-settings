@@ -23,6 +23,7 @@
 		"Sass",
 		"SublimeLinter-contrib-gotype",
 		"SublimeREPL",
-		"Swift"
+		"Swift",
+		"TypeScript"
 	]
 }

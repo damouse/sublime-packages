@@ -1,15 +1,24 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Monokai.tmTheme",
 	"detect_indentation": false,
 	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
 	[
 		"FindResultsApplyChanges",
-		"Markdown",
 		"Vintage"
 	],
 	"remember_open_files": false,
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+
+    // Material Theme
+      "material_theme_tabs_separator": true,
+    "material_theme_small_tab": true,
+    "material_theme_compact_sidebar": true,
+    "material_theme_disable_tree_indicator": false,
+    "material_theme_arrow_folders": true,
+    "material_theme_compact_panel": true,
+    "material_theme_tabs_autowidth": true,
 }

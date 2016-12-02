@@ -4,21 +4,27 @@
 	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
-	[
-		"FindResultsApplyChanges",
-		"Vintage"
-	],
-	"remember_open_files": false,
-	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	[],
 
     // Material Theme
-      "material_theme_tabs_separator": true,
-    "material_theme_small_tab": true,
-    "material_theme_compact_sidebar": true,
-    "material_theme_disable_tree_indicator": false,
-    "material_theme_arrow_folders": true,
-    "material_theme_compact_panel": true,
-    "material_theme_tabs_autowidth": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_disable_tree_indicator": false,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+
+  // "overlay_scroll_bars": "enabled",
+  "line_padding_top": 1,
+  "line_padding_bottom": 1,
+  // "bold_folder_labels": true,
+  "indent_guide_options": [ "draw_normal", "draw_active" ],   // Highlight active indent
+  // "font_options": [ "gray_antialias" ],                       // For retina Mac
+
+    // Other stuff
+	"remember_open_files": false,
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
 }

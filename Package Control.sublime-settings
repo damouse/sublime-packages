@@ -10,6 +10,7 @@
 		"CodeFormatter",
 		"Colorsublime",
 		"FindResultsApplyChanges",
+		"Github Tools",
 		"GoOracle",
 		"GoSublime",
 		"HTML-CSS-JS Prettify",
@@ -23,9 +24,11 @@
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
+		"SublimeCodeIntel",
 		"SublimeLinter-contrib-gotype",
 		"SublimeREPL",
 		"Swift",
+		"TodoReview",
 		"TypeScript"
 	]
 }

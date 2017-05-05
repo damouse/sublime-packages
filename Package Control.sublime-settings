@@ -8,6 +8,8 @@
 		"Anaconda",
 		"Better CoffeeScript",
 		"CodeFormatter",
+		"Colorsublime",
+		"Github Tools",
 		"GoOracle",
 		"GoSublime",
 		"HTML-CSS-JS Prettify",
@@ -17,11 +19,15 @@
 		"Markdown Extended",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
+		"SublimeCodeIntel",
 		"SublimeLinter-contrib-gotype",
 		"SublimeREPL",
-		"Swift"
+		"Swift",
+		"TodoReview",
+		"TypeScript"
 	]
 }

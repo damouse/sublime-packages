@@ -32,6 +32,9 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Pug",
+		"SublimeLinter",
+		"SublimeLinter-contrib-tslint",
 		"Vintage"
 	],
 	"indent_guide_options":

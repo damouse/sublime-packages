@@ -24,7 +24,7 @@
     // Indent with tabs, overrides `indent_size` and `indent_char`
     "indent_with_tabs": false,
     // Maximum number of line breaks to be preserved in one chunk (0 disables)
-    "max_preserve_newlines": 1,
+    "max_preserve_newlines": 2,
     // Whether existing line breaks before elements should be preserved (only works before elements, not inside tags or for text)
     "preserve_newlines": true,
     // Lines should wrap at next opportunity after this number of characters (0 disables)
@@ -62,7 +62,7 @@
     // of the settings in the 'all' category above.
     // You can add other .jsbeautifyrc rules in this section too.
     // [collapse|collapse-preserve-inline|expand|end-expand|none] Put braces on the same line as control statements (default), or put braces on own line (Allman / ANSI style), or put end braces on own line, or attempt to keep them where they are
-    "brace_style": "collapse",
+    "brace_style": "collapse-preserve-inline",
     // Break chained method calls across subsequent lines
     "break_chained_methods": false,
     // Put commas at the beginning of new line instead of end
@@ -72,7 +72,7 @@
     // If true, then jslint-stricter mode is enforced
     "jslint_happy": false,
     // Preserve array indentation
-    "keep_array_indentation": false,
+    "keep_array_indentation": true,
     // Preserve function indentation
     "keep_function_indentation": false,
     // [before-newline|after-newline|preserve-newline] Set operator position
@@ -98,12 +98,7 @@
     // Preserve array indentation
     "keep_array_indentation": false,
     // Should printable characters in strings encoded in \xNN notation be unescaped, "example" vs "\x65\x78\x61\x6d\x70\x6c\x65"
-    "unescape_strings": false,
-    // Maximum number of line breaks to be preserved in one chunk (0 disables)
-    "max_preserve_newlines": 1,
-    // Whether existing line breaks before elements should be preserved (only works before elements, not inside tags or for text)
-    "preserve_newlines": true,
-    "indent_size": 2,
+    "unescape_strings": false
   },
   "custom":
   {

@@ -2,7 +2,7 @@
 	"9o.hist./home/damouse/code/go/src/github.com/damouse/cumin/demo":
 	[
 		"help",
-		"go run main.goa",
+		"go run main.go",
 		"ls",
 		"go run margo-reinstall",
 		"go run main.go"

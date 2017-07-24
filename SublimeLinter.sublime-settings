@@ -13,10 +13,13 @@
                 "excludes": []
             },
             "tslint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": [],
-                "ignore_match": ["Missing semicolon"]
+                "ignore_match": [
+                    "Missing semicolon",
+                    "kebab-case"
+                ]
             }
         },
         "mark_style": "outline",

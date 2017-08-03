@@ -8,3 +8,4 @@ Package Control.ca-certs/
 *.exe
 .DS_Store
 GoSublime/*
+*.crt

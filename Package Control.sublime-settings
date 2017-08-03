@@ -2,9 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Pug",
-		"SublimeLinter",
-		"SublimeLinter-contrib-tslint"
 	],
 	"installed_packages":
 	[

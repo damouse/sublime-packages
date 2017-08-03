@@ -38,7 +38,10 @@
 		"addon",
 		"addons",
 		"signage",
-		"Overnegotiating"
+		"Overnegotiating",
+		"anaphylactic",
+		"waterblock",
+		"waterblocks"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"detect_indentation": false,
@@ -69,13 +72,10 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Pug",
-		"SublimeLinter",
-		"SublimeLinter-contrib-tslint",
 		"Vintage"
 	],
 	"indent_guide_options":

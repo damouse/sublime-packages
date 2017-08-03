@@ -2,12 +2,12 @@
 	"9o.hist./home/damouse/code/go/src/github.com/damouse/cumin/demo":
 	[
 		"help",
-		"go run main.goa",
+		"go run main.go",
 		"ls",
 		"go run margo-reinstall",
 		"go run main.go"
 	],
-	"ann": "a16.07.09-1",
-	"install_version": "r16.07.09-1",
-	"version": "r16.07.09-1"
+	"ann": "a17.03.05-1",
+	"install_version": "r17.03.05-1",
+	"version": "r17.03.05-1"
 }

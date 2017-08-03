@@ -2,6 +2,9 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Pug",
+		"SublimeLinter",
+		"SublimeLinter-contrib-tslint"
 	],
 	"installed_packages":
 	[
@@ -19,13 +22,16 @@
 		"Markdown Extended",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"MarkdownFootnotes",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
 		"Pug",
 		"Sass",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"SublimeLinter-contrib-gotype",
+		"SublimeLinter-contrib-tslint",
 		"SublimeREPL",
 		"Swift",
 		"TodoReview",

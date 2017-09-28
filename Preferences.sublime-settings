@@ -78,6 +78,11 @@
 	[
 		"Vintage"
 	],
+	"ignored_words":
+	[
+		"Bluetooth",
+		"bluetooth"
+	],
 	"indent_guide_options":
 	[
 		"draw_normal",

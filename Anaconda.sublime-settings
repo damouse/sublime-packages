@@ -159,7 +159,7 @@
     */
     "pep8_ignore":
     [
-    "E501", "W291", "W239", "W391", "E402"
+    "E501", "W291", "W239", "W391", "E402", "E722"
     ],
 
     // Maximum line length for pep8

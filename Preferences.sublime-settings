@@ -73,7 +73,9 @@
 		".git",
 		".hg",
 		"CVS",
-		"__pycache__"
+		"__pycache__",
+    ".cache",
+    "*.egg-info"
 	],
 	"font_options":
 	[

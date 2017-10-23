@@ -74,18 +74,19 @@
 		".hg",
 		"CVS",
 		"__pycache__",
-    ".cache",
-    "*.egg-info"
+		".cache",
+		"*.egg-info"
 	],
 	"font_options":
 	[
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 11,
+	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Python",
 		"Vintage"
 	],

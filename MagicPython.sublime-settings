@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the MagicPython syntax
+{
+  "tab_size": 4,
+      "auto_complete": true,
+}

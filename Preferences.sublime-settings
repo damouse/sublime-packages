@@ -82,10 +82,11 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 11,
+	"font_size": 12,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Python",
 		"Vintage"
 	],

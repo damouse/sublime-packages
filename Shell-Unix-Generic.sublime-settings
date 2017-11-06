@@ -1,9 +1,5 @@
 // These settings override both User and Default settings for the Shell-Unix-Generic syntax
 {
-<<<<<<< HEAD
     "tab_size": 4,
 
-=======
-  "tab_size": 4,
->>>>>>> a1b56a7e0059f8f21ed48f90874c37bf810704a7
 }

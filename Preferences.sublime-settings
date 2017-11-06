@@ -114,7 +114,7 @@
 	"overlay_scroll_bars": "enabled",
 	"remember_open_files": false,
 	"show_tab_close_buttons": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

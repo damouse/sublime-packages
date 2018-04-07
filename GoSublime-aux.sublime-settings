@@ -7,7 +7,7 @@
 		"go run margo-reinstall",
 		"go run main.go"
 	],
-	"ann": "a17.10.15-1",
+	"ann": "a18.03.26-1",
 	"install_version": "r17.10.15-1",
-	"version": "r17.10.15-1"
+	"version": "r18.03.26-1"
 }

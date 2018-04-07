@@ -5,7 +5,7 @@
     "suppress_word_completions": false,
     "suppress_explicit_completions": false,
 
-    "python_interpreter": "python3",
+    "python_interpreter": "/usr/local/bin/python3.6",
     /*
         If complete_parameters is true, anaconda will add function and class
         parameters to its completions.

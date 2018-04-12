@@ -28,15 +28,17 @@
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
+		"Protobuf Syntax Hightlighting",
 		"Pug",
 		"Sass",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-gotype",
-		"SublimeLinter-contrib-tslint",
+		"SublimeLinter-gotype",
+		"SublimeLinter-tslint",
 		"SublimeREPL",
 		"Swift",
 		"TodoReview",
+		"TOML",
 		"TypeScript"
 	]
 }

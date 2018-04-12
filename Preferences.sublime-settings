@@ -86,6 +86,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Colorsublime",
 		"Markdown",
 		"Python",
 		"Vintage"

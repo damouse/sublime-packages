@@ -75,7 +75,8 @@
 		"CVS",
 		"__pycache__",
 		".cache",
-		"*.egg-info"
+		"*.egg-info",
+		".pytest_cache"
 	],
 	"font_options":
 	[
@@ -116,6 +117,6 @@
 	"remember_open_files": false,
 	"show_tab_close_buttons": true,
 	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

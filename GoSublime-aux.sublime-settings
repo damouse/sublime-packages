@@ -8,6 +8,6 @@
 		"go run main.go"
 	],
 	"ann": "a18.04.30-1",
-	"install_version": "r17.10.15-1",
+	"install_version": "r18.04.30-1",
 	"version": "r18.04.30-1"
 }

@@ -1,5 +1,22 @@
 {
 	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"curl",
+			"wget",
+			"urllib"
+		],
+		"osx":
+		[
+			"curl"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
 	"in_process_packages":
 	[
 	],
@@ -25,9 +42,10 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"MarkdownFootnotes",
-		"Material Theme",
 		"Package Control",
+		"PackageResourceViewer",
 		"Pretty JSON",
+		"Protobuf Syntax Hightlighting",
 		"Pug",
 		"Sass",
 		"SublimeCodeIntel",
@@ -37,6 +55,7 @@
 		"SublimeREPL",
 		"Swift",
 		"TodoReview",
+		"TOML",
 		"TypeScript"
 	]
 }
